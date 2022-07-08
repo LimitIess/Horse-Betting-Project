@@ -1,0 +1,1857 @@
+['forward', 'horses_1990', 'horses_1991', 'horses_1992', 'horses_1993', 'horses_1994', 'horses_1995', 'horses_1996', 'horses_1997', 'horses_1998', 'horses_1999', 'horses_2000', 'horses_2001', 'horses_2002', 'horses_2003', 'horses_2004', 'horses_2005', 'horses_2006', 'horses_2007', 'horses_2008', 'horses_2009', 'horses_2010', 'horses_2011', 'horses_2012', 'horses_2013', 'horses_2014', 'horses_2015', 'horses_2016', 'horses_2017', 'horses_2018', 'horses_2019', 'horses_2020', 'races_1990', 'races_1991', 'races_1992', 'races_1993', 'races_1994', 'races_1995', 'races_1996', 'races_1997', 'races_1998', 'races_1999', 'races_2000', 'races_2001', 'races_2002', 'races_2003', 'races_2004', 'races_2005', 'races_2006', 'races_2007', 'races_2008', 'races_2009', 'races_2010', 'races_2011', 'races_2012', 'races_2013', 'races_2014', 'races_2015', 'races_2016', 'races_2017', 'races_2018', 'races_2019', 'races_2020']
+
+
+forward
+Total number of rows : 33708
+course             11
+countryCode         0
+marketTime          0
+title               0
+runners             0
+condition           5
+prize               0
+rclass          10716
+horseName           0
+trainerName         0
+jockeyName         92
+RPRc             5597
+TRc             10088
+OR               9470
+weightSt            0
+weightLb            0
+age                 0
+decimalPrice        0
+dtype: int64
+
+
+
+
+horses_1990
+Total number of rows : 88195
+rid                 0
+horseName           0
+age                75
+saddle              0
+decimalPrice        0
+isFav               0
+trainerName       145
+jockeyName         52
+position            0
+positionL       34735
+dist            25143
+weightSt            0
+weightLb            0
+overWeight      83280
+outHandicap     84663
+headGear        78992
+RPR             53863
+TR              42705
+OR              56139
+father            108
+mother            187
+gfather          1146
+runners             0
+margin              0
+weight              0
+res_win             0
+res_place           0
+dtype: int64
+
+
+
+
+horses_1991
+Total number of rows : 89693
+rid                 0
+horseName           0
+age                58
+saddle              3
+decimalPrice        0
+isFav               0
+trainerName       173
+jockeyName          2
+position            0
+positionL       32320
+dist            25570
+weightSt            0
+weightLb            0
+overWeight      85147
+outHandicap     85269
+headGear        80002
+RPR             56076
+TR              42595
+OR              57419
+father            131
+mother            235
+gfather           874
+runners             0
+margin              0
+weight              0
+res_win             0
+res_place           0
+dtype: int64
+
+
+
+
+horses_1992
+Total number of rows : 90152
+rid                 0
+horseName           0
+age                45
+saddle              0
+decimalPrice        0
+isFav               0
+trainerName       156
+jockeyName          0
+position            0
+positionL       29828
+dist            25946
+weightSt            0
+weightLb            0
+overWeight      85927
+outHandicap     85791
+headGear        80029
+RPR             49346
+TR              35914
+OR              56057
+father            113
+mother            192
+gfather           588
+runners             0
+margin              0
+weight              0
+res_win             0
+res_place           0
+dtype: int64
+
+
+
+
+horses_1993
+Total number of rows : 90311
+rid                 0
+horseName           0
+age                27
+saddle              0
+decimalPrice        0
+isFav               0
+trainerName       134
+jockeyName         11
+position            0
+positionL       29540
+dist            25749
+weightSt            0
+weightLb            0
+overWeight      86810
+outHandicap     86039
+headGear        80734
+RPR             39582
+TR              30750
+OR              56693
+father             98
+mother            168
+gfather           425
+runners             0
+margin              0
+weight              0
+res_win             0
+res_place           0
+dtype: int64
+
+
+
+
+horses_1994
+Total number of rows : 91738
+rid                 0
+horseName           0
+age                27
+saddle             14
+decimalPrice        0
+isFav               0
+trainerName       177
+jockeyName          0
+position            0
+positionL       28555
+dist            25483
+weightSt            0
+weightLb            0
+overWeight      88391
+outHandicap     87595
+headGear        81815
+RPR             24135
+TR              27426
+OR              56710
+father             97
+mother            146
+gfather           410
+runners             0
+margin              0
+weight              0
+res_win             0
+res_place           0
+dtype: int64
+
+
+
+
+horses_1995
+Total number of rows : 87167
+rid                 0
+horseName           0
+age                17
+saddle              0
+decimalPrice        0
+isFav               0
+trainerName       145
+jockeyName          1
+position            0
+positionL       25428
+dist            24449
+weightSt            0
+weightLb            0
+overWeight      84107
+outHandicap     83520
+headGear        77678
+RPR             15351
+TR              30037
+OR              51889
+father            129
+mother            174
+gfather           443
+runners             0
+margin              0
+weight              0
+res_win             0
+res_place           0
+dtype: int64
+
+
+
+
+horses_1996
+Total number of rows : 93553
+rid                 0
+horseName           0
+age                 0
+saddle          52497
+decimalPrice        0
+isFav               0
+trainerName       469
+jockeyName          0
+position            0
+positionL       27455
+dist            25886
+weightSt            0
+weightLb            0
+overWeight      90858
+outHandicap     89480
+headGear        82962
+RPR             17020
+TR              29869
+OR              55589
+father            192
+mother            307
+gfather           808
+runners             0
+margin              0
+weight              0
+res_win             0
+res_place           0
+dtype: int64
+
+
+
+
+horses_1997
+Total number of rows : 94501
+rid                 0
+horseName           0
+age                 0
+saddle          18224
+decimalPrice        0
+isFav               0
+trainerName       182
+jockeyName          0
+position            0
+positionL       27856
+dist            26340
+weightSt            0
+weightLb            0
+overWeight      91877
+outHandicap     90898
+headGear        84492
+RPR             17726
+TR              34032
+OR              56335
+father             83
+mother            104
+gfather           209
+runners             0
+margin              0
+weight              0
+res_win             0
+res_place           0
+dtype: int64
+
+
+
+
+horses_1998
+Total number of rows : 100431
+rid                 0
+horseName           0
+age                 1
+saddle          13942
+decimalPrice        0
+isFav               0
+trainerName        54
+jockeyName         11
+position            0
+positionL       18328
+dist            27243
+weightSt            0
+weightLb            0
+overWeight      97282
+outHandicap     96291
+headGear        89861
+RPR             17057
+TR              45823
+OR              43177
+father             29
+mother             41
+gfather           312
+runners             0
+margin              0
+weight              0
+res_win             0
+res_place           0
+dtype: int64
+
+
+
+
+horses_1999
+Total number of rows : 104117
+rid                  0
+horseName            0
+age                  0
+saddle               1
+decimalPrice         0
+isFav                0
+trainerName         12
+jockeyName           0
+position             0
+positionL        18577
+dist             27724
+weightSt             0
+weightLb             0
+overWeight      100599
+outHandicap      99906
+headGear         87812
+RPR              14947
+TR               34516
+OR               36970
+father              25
+mother              34
+gfather            311
+runners              0
+margin               0
+weight               0
+res_win              0
+res_place            0
+dtype: int64
+
+
+
+
+horses_2000
+Total number of rows : 105500
+rid                  0
+horseName            0
+age                  7
+saddle              65
+decimalPrice         0
+isFav                0
+trainerName         75
+jockeyName           1
+position             0
+positionL        18028
+dist             27154
+weightSt             0
+weightLb             0
+overWeight      102300
+outHandicap     101391
+headGear         87966
+RPR              16381
+TR               47591
+OR               36843
+father              34
+mother              77
+gfather            235
+runners              0
+margin               0
+weight               0
+res_win              0
+res_place            0
+dtype: int64
+
+
+
+
+horses_2001
+Total number of rows : 111583
+rid                  0
+horseName            0
+age                  0
+saddle             163
+decimalPrice         0
+isFav                0
+trainerName        151
+jockeyName           1
+position             0
+positionL        19173
+dist             27776
+weightSt             0
+weightLb             0
+overWeight      108426
+outHandicap     107777
+headGear         92993
+RPR              18766
+TR               64047
+OR               38358
+father              15
+mother              95
+gfather            156
+runners              0
+margin               0
+weight               0
+res_win              0
+res_place            0
+dtype: int64
+
+
+
+
+horses_2002
+Total number of rows : 161752
+rid                  0
+horseName            0
+age                 41
+saddle              88
+decimalPrice         0
+isFav                0
+trainerName         91
+jockeyName           5
+position             0
+positionL        23791
+dist             37460
+weightSt             0
+weightLb             0
+overWeight      158866
+outHandicap     157870
+headGear        126879
+RPR              64942
+TR              112547
+OR               55515
+father              39
+mother             178
+gfather          41533
+runners              0
+margin               0
+weight               0
+res_win              0
+res_place            0
+dtype: int64
+
+
+
+
+horses_2003
+Total number of rows : 154917
+rid                  0
+horseName            0
+age                  1
+saddle             566
+decimalPrice         0
+isFav                0
+trainerName         63
+jockeyName           4
+position             0
+positionL        23065
+dist             37131
+weightSt             0
+weightLb             0
+overWeight      152246
+outHandicap     151458
+headGear        119060
+RPR              56918
+TR              102810
+OR               49104
+father              23
+mother             153
+gfather          36133
+runners              0
+margin               0
+weight               0
+res_win              0
+res_place            0
+dtype: int64
+
+
+
+
+horses_2004
+Total number of rows : 158750
+rid                  0
+horseName            0
+age                  0
+saddle             917
+decimalPrice         0
+isFav                0
+trainerName         57
+jockeyName           0
+position             0
+positionL        23855
+dist             37905
+weightSt             0
+weightLb             0
+overWeight      156351
+outHandicap     155592
+headGear        122060
+RPR              51069
+TR               85982
+OR               48641
+father              19
+mother             110
+gfather          29212
+runners              0
+margin               0
+weight               0
+res_win              0
+res_place            0
+dtype: int64
+
+
+
+
+horses_2005
+Total number of rows : 131060
+rid                  0
+horseName            0
+age                  2
+saddle            1050
+decimalPrice         0
+isFav                0
+trainerName         70
+jockeyName          29
+position             0
+positionL        21203
+dist             32552
+weightSt             0
+weightLb             0
+overWeight      128602
+outHandicap     127469
+headGear        103601
+RPR              18424
+TR               54670
+OR               43954
+father              33
+mother             107
+gfather            211
+runners              0
+margin               0
+weight               0
+res_win              0
+res_place            0
+dtype: int64
+
+
+
+
+horses_2006
+Total number of rows : 133943
+rid                  0
+horseName            0
+age                  0
+saddle            3349
+decimalPrice         0
+isFav                0
+trainerName         34
+jockeyName           0
+position             0
+positionL        22279
+dist             34371
+weightSt             0
+weightLb             0
+overWeight      131561
+outHandicap     129626
+headGear        105748
+RPR              17450
+TR               38864
+OR               46909
+father               9
+mother             250
+gfather            390
+runners              0
+margin               0
+weight               0
+res_win              0
+res_place            0
+dtype: int64
+
+
+
+
+horses_2007
+Total number of rows : 140581
+rid                  0
+horseName            0
+age                  2
+saddle            6804
+decimalPrice         0
+isFav                0
+trainerName        162
+jockeyName           1
+position             0
+positionL        22093
+dist             34771
+weightSt             0
+weightLb             0
+overWeight      137969
+outHandicap     136199
+headGear        109922
+RPR              18968
+TR               38630
+OR               52673
+father              19
+mother             737
+gfather            969
+runners              0
+margin               0
+weight               0
+res_win              0
+res_place            0
+dtype: int64
+
+
+
+
+horses_2008
+Total number of rows : 147872
+rid                  0
+horseName            0
+age                  0
+saddle            7264
+decimalPrice         0
+isFav                0
+trainerName         86
+jockeyName           0
+position             0
+positionL        23907
+dist             37564
+weightSt             0
+weightLb             0
+overWeight      145473
+outHandicap     143835
+headGear        113809
+RPR              21543
+TR               46152
+OR               56796
+father              33
+mother             505
+gfather            850
+runners              0
+margin               0
+weight               0
+res_win              0
+res_place            0
+dtype: int64
+
+
+
+
+horses_2009
+Total number of rows : 144858
+rid                  0
+horseName            0
+age                  0
+saddle            9068
+decimalPrice         0
+isFav                0
+trainerName         73
+jockeyName           0
+position             0
+positionL        23153
+dist             36908
+weightSt             0
+weightLb             0
+overWeight      142738
+outHandicap     141146
+headGear        109977
+RPR              18819
+TR               43991
+OR               53523
+father              18
+mother             202
+gfather            635
+runners              0
+margin               0
+weight               0
+res_win              0
+res_place            0
+dtype: int64
+
+
+
+
+horses_2010
+Total number of rows : 157181
+rid                  0
+horseName            0
+age                  0
+saddle            9946
+decimalPrice         0
+isFav                0
+trainerName        211
+jockeyName           0
+position             0
+positionL        28781
+dist             43869
+weightSt             0
+weightLb             0
+overWeight      154155
+outHandicap     153578
+headGear        117684
+RPR              23737
+TR               54782
+OR               69873
+father              13
+mother             244
+gfather            562
+runners              0
+margin               0
+weight               0
+res_win              0
+res_place            0
+dtype: int64
+
+
+
+
+horses_2011
+Total number of rows : 167448
+rid                  0
+horseName            0
+age                  5
+saddle           10841
+decimalPrice         0
+isFav                0
+trainerName         83
+jockeyName           1
+position             0
+positionL        30858
+dist             47286
+weightSt             0
+weightLb             0
+overWeight      164378
+outHandicap     164014
+headGear        123183
+RPR              24761
+TR               61866
+OR               77838
+father               8
+mother             106
+gfather            386
+runners              0
+margin               0
+weight               0
+res_win              0
+res_place            0
+dtype: int64
+
+
+
+
+horses_2012
+Total number of rows : 163080
+rid                  0
+horseName            0
+age                  1
+saddle           11578
+decimalPrice         0
+isFav                0
+trainerName          8
+jockeyName           1
+position             0
+positionL        29826
+dist             46029
+weightSt             0
+weightLb             0
+overWeight      160053
+outHandicap     159724
+headGear        117871
+RPR              21891
+TR               60884
+OR               75266
+father               9
+mother              56
+gfather            387
+runners              0
+margin               0
+weight               0
+res_win              0
+res_place            0
+dtype: int64
+
+
+
+
+horses_2013
+Total number of rows : 164852
+rid                  0
+horseName            0
+age                  0
+saddle           13298
+decimalPrice         0
+isFav                0
+trainerName          0
+jockeyName           1
+position             0
+positionL        28202
+dist             45064
+weightSt             0
+weightLb             0
+overWeight      162104
+outHandicap     161487
+headGear        114713
+RPR              17291
+TR               59405
+OR               76278
+father              12
+mother              44
+gfather            367
+runners              0
+margin               0
+weight               0
+res_win              0
+res_place            0
+dtype: int64
+
+
+
+
+horses_2014
+Total number of rows : 160577
+rid                  0
+horseName            0
+age                  0
+saddle           13913
+decimalPrice         0
+isFav                0
+trainerName          9
+jockeyName           0
+position             0
+positionL        25260
+dist             42151
+weightSt             0
+weightLb             0
+overWeight      157887
+outHandicap     157388
+headGear        109294
+RPR              13618
+TR               57771
+OR               74964
+father               0
+mother              24
+gfather            281
+runners              0
+margin               0
+weight               0
+res_win              0
+res_place            0
+dtype: int64
+
+
+
+
+horses_2015
+Total number of rows : 156753
+rid                  0
+horseName            0
+age                  0
+saddle            3760
+decimalPrice         0
+isFav                0
+trainerName          1
+jockeyName           0
+position             0
+positionL        25090
+dist             41619
+weightSt             0
+weightLb             0
+overWeight      154651
+outHandicap     153748
+headGear        104327
+RPR              15895
+TR               55887
+OR               70771
+father               0
+mother               0
+gfather            305
+runners              0
+margin               0
+weight               0
+res_win              0
+res_place            0
+dtype: int64
+
+
+
+
+horses_2016
+Total number of rows : 157328
+rid                  0
+horseName            0
+age                  0
+saddle             775
+decimalPrice         0
+isFav                0
+trainerName          2
+jockeyName           1
+position             0
+positionL        25080
+dist             41272
+weightSt             0
+weightLb             0
+overWeight      155549
+outHandicap     154344
+headGear        103044
+RPR              13460
+TR               53232
+OR               66551
+father               0
+mother               1
+gfather            401
+runners              0
+margin               0
+weight               0
+res_win              0
+res_place            0
+dtype: int64
+
+
+
+
+horses_2017
+Total number of rows : 166865
+rid                  0
+horseName            0
+age                  0
+saddle             554
+decimalPrice         0
+isFav                0
+trainerName          0
+jockeyName           0
+position             0
+positionL        25446
+dist             42527
+weightSt             0
+weightLb             0
+overWeight      163878
+outHandicap     163746
+headGear        103515
+RPR              16199
+TR               60945
+OR               65222
+father               0
+mother               0
+gfather            366
+runners              0
+margin               0
+weight               0
+res_win              0
+res_place            0
+dtype: int64
+
+
+
+
+horses_2018
+Total number of rows : 171195
+rid                  0
+horseName            0
+age                  0
+saddle             372
+decimalPrice         0
+isFav                0
+trainerName          6
+jockeyName           0
+position             0
+positionL        25504
+dist             43015
+weightSt             0
+weightLb             0
+overWeight      168245
+outHandicap     167701
+headGear        107470
+RPR              18545
+TR               62551
+OR               69379
+father               0
+mother               2
+gfather            263
+runners              0
+margin               0
+weight               0
+res_win              0
+res_place            0
+dtype: int64
+
+
+
+
+horses_2019
+Total number of rows : 171849
+rid                  0
+horseName            0
+age                  0
+saddle             110
+decimalPrice         0
+isFav                0
+trainerName          0
+jockeyName           0
+position             0
+positionL        25219
+dist             42476
+weightSt             0
+weightLb             0
+overWeight      168665
+outHandicap     168628
+headGear        108472
+RPR              18651
+TR               63567
+OR               69860
+father               0
+mother               0
+gfather            170
+runners              0
+margin               0
+weight               0
+res_win              0
+res_place            0
+dtype: int64
+
+
+
+
+horses_2020
+Total number of rows : 149513
+rid                  0
+horseName            0
+age                  0
+saddle               6
+decimalPrice         0
+isFav                0
+trainerName         21
+jockeyName           3
+position             0
+positionL        21227
+dist             35952
+weightSt             0
+weightLb             0
+overWeight      144613
+outHandicap     148159
+headGear         93730
+RPR              72446
+TR              101769
+OR               69967
+father               0
+mother               1
+gfather             36
+runners              0
+margin               0
+weight               0
+res_win              0
+res_place            0
+price            54502
+dtype: int64
+
+
+
+
+races_1990
+Total number of rows : 8741
+rid               0
+course            0
+time              0
+date              0
+title             0
+rclass         8740
+band           6249
+ages           3553
+distance          0
+condition         0
+hurdles        6474
+prizes            0
+winningTime       0
+prize          1750
+metric            0
+countryCode       0
+ncond             0
+class             0
+dtype: int64
+
+
+
+
+races_1991
+Total number of rows : 8522
+rid               0
+course            0
+time              0
+date              0
+title             0
+rclass         5040
+band           6070
+ages             11
+distance          0
+condition         0
+hurdles        6266
+prizes            0
+winningTime       0
+prize          1779
+metric            0
+countryCode       0
+ncond             0
+class             0
+dtype: int64
+
+
+
+
+races_1992
+Total number of rows : 8705
+rid               0
+course            0
+time              0
+date              0
+title             1
+rclass         4967
+band           6039
+ages              7
+distance          0
+condition         0
+hurdles        5899
+prizes            0
+winningTime       0
+prize          1785
+metric            0
+countryCode       0
+ncond             0
+class             0
+dtype: int64
+
+
+
+
+races_1993
+Total number of rows : 8846
+rid               0
+course            0
+time              0
+date              0
+title             0
+rclass         5060
+band           5731
+ages              8
+distance          0
+condition         0
+hurdles        5326
+prizes            0
+winningTime       0
+prize          1692
+metric            0
+countryCode       0
+ncond             0
+class             0
+dtype: int64
+
+
+
+
+races_1994
+Total number of rows : 8808
+rid               0
+course            0
+time              0
+date              0
+title             0
+rclass         4967
+band           5267
+ages              7
+distance          0
+condition         0
+hurdles        5385
+prizes            0
+winningTime       0
+prize          1723
+metric            0
+countryCode       0
+ncond             0
+class             0
+dtype: int64
+
+
+
+
+races_1995
+Total number of rows : 8838
+rid               0
+course            0
+time              0
+date              0
+title             0
+rclass         1730
+band           4779
+ages              1
+distance          0
+condition         0
+hurdles        5513
+prizes            0
+winningTime       0
+prize          1716
+metric            0
+countryCode       0
+ncond             0
+class             0
+dtype: int64
+
+
+
+
+races_1996
+Total number of rows : 9088
+rid               0
+course            0
+time              0
+date              0
+title             0
+rclass         1826
+band           4895
+ages              3
+distance          0
+condition         0
+hurdles        5506
+prizes            0
+winningTime       0
+prize          1808
+metric            0
+countryCode       0
+ncond             0
+class             0
+dtype: int64
+
+
+
+
+races_1997
+Total number of rows : 9268
+rid               0
+course            0
+time              0
+date              0
+title             0
+rclass         1812
+band           5023
+ages              4
+distance          0
+condition        21
+hurdles        5486
+prizes            0
+winningTime       0
+prize          1799
+metric            0
+countryCode       0
+ncond             0
+class             0
+dtype: int64
+
+
+
+
+races_1998
+Total number of rows : 9336
+rid               0
+course            0
+time              0
+date              0
+title             0
+rclass         1958
+band           5055
+ages              7
+distance          0
+condition         0
+hurdles        5667
+prizes            0
+winningTime       0
+prize          1821
+metric            0
+countryCode       0
+ncond             0
+class             0
+dtype: int64
+
+
+
+
+races_1999
+Total number of rows : 9629
+rid               0
+course            0
+time              0
+date              0
+title             0
+rclass         2107
+band           5194
+ages              2
+distance          0
+condition         0
+hurdles        5899
+prizes            0
+winningTime       0
+prize          1867
+metric            0
+countryCode       0
+ncond             0
+class             0
+dtype: int64
+
+
+
+
+races_2000
+Total number of rows : 9585
+rid               0
+course            0
+time              0
+date              0
+title             0
+rclass         2167
+band           5161
+ages              0
+distance          0
+condition         1
+hurdles        5856
+prizes            0
+winningTime       0
+prize          1922
+metric            0
+countryCode       0
+ncond             0
+class             0
+dtype: int64
+
+
+
+
+races_2001
+Total number of rows : 9345
+rid               0
+course            0
+time              0
+date              0
+title             0
+rclass         2205
+band           5031
+ages              1
+distance          0
+condition         0
+hurdles        6017
+prizes            0
+winningTime       0
+prize             3
+metric            0
+countryCode       0
+ncond             0
+class             0
+dtype: int64
+
+
+
+
+races_2002
+Total number of rows : 13984
+rid                0
+course             0
+time               0
+date               0
+title              0
+rclass          6295
+band            9372
+ages            3801
+distance           0
+condition          2
+hurdles        10173
+prizes             0
+winningTime        0
+prize             16
+metric             0
+countryCode        0
+ncond              0
+class              0
+dtype: int64
+
+
+
+
+races_2003
+Total number of rows : 14149
+rid                0
+course             0
+time               0
+date               0
+title              0
+rclass          6128
+band            9174
+ages            3226
+distance           0
+condition          0
+hurdles        10105
+prizes             0
+winningTime        0
+prize              3
+metric             0
+countryCode        0
+ncond              0
+class              0
+dtype: int64
+
+
+
+
+races_2004
+Total number of rows : 14124
+rid               0
+course            0
+time              0
+date              0
+title             0
+rclass         5549
+band           7534
+ages           2349
+distance          0
+condition         0
+hurdles        9990
+prizes            0
+winningTime       0
+prize             2
+metric            0
+countryCode       0
+ncond             0
+class             0
+dtype: int64
+
+
+
+
+races_2005
+Total number of rows : 11412
+rid               0
+course            0
+time              0
+date              0
+title             0
+rclass         2824
+band           5861
+ages              5
+distance          0
+condition         0
+hurdles        7315
+prizes            0
+winningTime       0
+prize             1
+metric            0
+countryCode       0
+ncond             0
+class             0
+dtype: int64
+
+
+
+
+races_2006
+Total number of rows : 12136
+rid               0
+course            0
+time              0
+date              0
+title             0
+rclass         3202
+band           6316
+ages              5
+distance          0
+condition         0
+hurdles        7923
+prizes            0
+winningTime       0
+prize             1
+metric            0
+countryCode       0
+ncond             0
+class             0
+dtype: int64
+
+
+
+
+races_2007
+Total number of rows : 12746
+rid               0
+course            0
+time              0
+date              0
+title             0
+rclass         3869
+band           6913
+ages             15
+distance          0
+condition         0
+hurdles        8621
+prizes            0
+winningTime       0
+prize             3
+metric            0
+countryCode       0
+ncond             0
+class             0
+dtype: int64
+
+
+
+
+races_2008
+Total number of rows : 13704
+rid               0
+course            0
+time              0
+date              0
+title             0
+rclass         4213
+band           7516
+ages             10
+distance          0
+condition         2
+hurdles        9453
+prizes            0
+winningTime       0
+prize             1
+metric            0
+countryCode       0
+ncond             0
+class             0
+dtype: int64
+
+
+
+
+races_2009
+Total number of rows : 13818
+rid               0
+course            0
+time              0
+date              0
+title             0
+rclass         4194
+band           7509
+ages             13
+distance          0
+condition         3
+hurdles        9564
+prizes            0
+winningTime       0
+prize             2
+metric            0
+countryCode       0
+ncond             0
+class             0
+dtype: int64
+
+
+
+
+races_2010
+Total number of rows : 15215
+rid                0
+course             0
+time               0
+date               0
+title              0
+rclass          5647
+band            8746
+ages              12
+distance           0
+condition          0
+hurdles        11077
+prizes             0
+winningTime        0
+prize              1
+metric             0
+countryCode        0
+ncond              0
+class              0
+dtype: int64
+
+
+
+
+races_2011
+Total number of rows : 16571
+rid                0
+course             0
+time               0
+date               0
+title              0
+rclass          6430
+band            9731
+ages               5
+distance           0
+condition          0
+hurdles        11780
+prizes             0
+winningTime        0
+prize              3
+metric             0
+countryCode        0
+ncond              0
+class              0
+dtype: int64
+
+
+
+
+races_2012
+Total number of rows : 16343
+rid                0
+course             0
+time               0
+date               0
+title              0
+rclass          6695
+band            9647
+ages               4
+distance           0
+condition          0
+hurdles        11895
+prizes             0
+winningTime        0
+prize              1
+metric             0
+countryCode        0
+ncond              0
+class              0
+dtype: int64
+
+
+
+
+races_2013
+Total number of rows : 16988
+rid                0
+course             0
+time               0
+date               0
+title              0
+rclass          6843
+band            9880
+ages               0
+distance           0
+condition          3
+hurdles        12385
+prizes             0
+winningTime        0
+prize              2
+metric             0
+countryCode        0
+ncond              0
+class              0
+dtype: int64
+
+
+
+
+races_2014
+Total number of rows : 17042
+rid                0
+course             0
+time               0
+date               0
+title              0
+rclass          6938
+band            9993
+ages               3
+distance           0
+condition          1
+hurdles        12391
+prizes             0
+winningTime        0
+prize              1
+metric             0
+countryCode        0
+ncond              0
+class              0
+dtype: int64
+
+
+
+
+races_2015
+Total number of rows : 16597
+rid                0
+course             0
+time               0
+date               0
+title              0
+rclass          6556
+band            9625
+ages               1
+distance           0
+condition         14
+hurdles        11908
+prizes             0
+winningTime        0
+prize              1
+metric             0
+countryCode        0
+ncond              0
+class              0
+dtype: int64
+
+
+
+
+races_2016
+Total number of rows : 16252
+rid                0
+course             0
+time               0
+date               0
+title              0
+rclass          6218
+band            9246
+ages               0
+distance           0
+condition          0
+hurdles        11558
+prizes             0
+winningTime        0
+prize              1
+metric             0
+countryCode        0
+ncond              0
+class              0
+dtype: int64
+
+
+
+
+races_2017
+Total number of rows : 17126
+rid                0
+course             0
+time               0
+date               0
+title              0
+rclass          6840
+band            9959
+ages               0
+distance           0
+condition          0
+hurdles        12310
+prizes             0
+winningTime        0
+prize              1
+metric             0
+countryCode        0
+ncond              0
+class              0
+dtype: int64
+
+
+
+
+races_2018
+Total number of rows : 17553
+rid                0
+course             0
+time               0
+date               0
+title              0
+rclass          7149
+band           10237
+ages               1
+distance           0
+condition          0
+hurdles        12840
+prizes             0
+winningTime        0
+prize              1
+metric             0
+countryCode        0
+ncond              0
+class              0
+dtype: int64
+
+
+
+
+races_2019
+Total number of rows : 17307
+rid                0
+course             0
+time               0
+date               0
+title              0
+rclass          7225
+band           10095
+ages               0
+distance           0
+condition          1
+hurdles        12644
+prizes             0
+winningTime        0
+prize              2
+metric             0
+countryCode        0
+ncond              0
+class              0
+dtype: int64
+
+
+
+
+races_2020
+Total number of rows : 14794
+rid                0
+course             0
+time               0
+date               0
+title              0
+rclass          7598
+band            9461
+ages               0
+distance           0
+condition          0
+hurdles        11727
+prizes             0
+winningTime        0
+prize              0
+metric             0
+countryCode        0
+ncond              0
+class              0
+currency        5513
+dtype: int64
+
+
